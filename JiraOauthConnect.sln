@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiraOauthConnect", "JiraOauthConnect\JiraOauthConnect.csproj", "{43AD4D90-70F3-4188-B12F-4FE3F646F6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiraOauthConnectLib", "JiraOauthConnectLib\JiraOauthConnectLib.csproj", "{A37C6192-881A-42BF-BC0C-DCDAF11702CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AD4D90-70F3-4188-B12F-4FE3F646F6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AD4D90-70F3-4188-B12F-4FE3F646F6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AD4D90-70F3-4188-B12F-4FE3F646F6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AD4D90-70F3-4188-B12F-4FE3F646F6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37C6192-881A-42BF-BC0C-DCDAF11702CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37C6192-881A-42BF-BC0C-DCDAF11702CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37C6192-881A-42BF-BC0C-DCDAF11702CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37C6192-881A-42BF-BC0C-DCDAF11702CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {056D1BD0-A92E-4511-8561-5277E8EE9E59}
+	EndGlobalSection
+EndGlobal
